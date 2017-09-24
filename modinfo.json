@@ -1,0 +1,14 @@
+{
+    "context": "client",
+    "identifier": "com.pa.mushroomars.fab_spray_rainbow",
+    "display_name": "Rainbow Fab Shader",
+    "description": "All colors is best color.",
+    "author": "mushroomars",
+    "forum": "https://forums.uberent.com/threads/rel-rainbow-fab-shader-50355.49052/",
+    "version": "1.0.0",
+    "build": "105067",
+    "date": "2017-09-24",
+    "signature": " ",
+    "category": ["classic", "effects"],
+    "priority": 100
+}
